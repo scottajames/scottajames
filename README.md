@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scottajames a freelance developer from UK
-- 👀 I'm interested in Marketing, security, webdev
+- 👀 I'm interested in Marketing, Security, Webdev
 - 🌱 I enjoy learning everything code related
-- 💞️ I love everything and anything with python/php/js/webdev
+- 💞️ I love everything and anything with python/php/javascript
 - 📫 You can contact me at Scottaustinjames@gmail.com
 
 <!---
